@@ -1,4 +1,4 @@
-General ZURG from Toy Story. Creating Future, with Rust, Go, Javascript, Python, Svelte 5, MongoDB, KeyDB, Sqlite.  
+General ZURG from Toy Story. Creating Future, with Rust, Javascript, Svelte 5, Python, MongoDB, KeyDB, NATS, Sqlite.  
 
 <!---
 vamshinenu/vamshinenu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
